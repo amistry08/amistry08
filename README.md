@@ -16,7 +16,7 @@ I'm a passionate Full-Stack Developer with a focus on building clean, scalable, 
 
 - 💼 https://www.linkedin.com/in/mistryayush/
 - 📧 ayushmistry1998@gmail.com
-- 🌐 https://my-portfolio-wheat-beta-56.vercel.app/
+- 🌐 [https://my-portfolio-wheat-beta-56.vercel.app/](https://portfolio-sigma-seven-ytkchn9lzf.vercel.app/)
 
 ---
 
