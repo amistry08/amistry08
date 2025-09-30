@@ -22,7 +22,7 @@ I’m a **Full-Stack Developer** with experience building **scalable web, mobile
 ---
 
 ## 📌 Featured Projects  
-- **[THe Playground](https://github.com/amistry08/my-portfolio)** – Being creative, A 2-D game - explore and solve puzzles, (In progess) 
+- **[THe Playground](https://github.com/amistry08/my-portfolio)** – Being creative, A 2-D game - explore and solve puzzles, AI - NPC (In progess) 
 - **[Clutch (Car Dealership)](https://github.com/amistry08/clutch_car_dealership)** – Django + React + Docker; inventory, reviews, admin views.  
 - **[Deep Learning AI](https://github.com/amistry08/Deep_Learning_AI)** – Learning the Fundamentals of Deep Learning, A playgorund to experiment 
 
